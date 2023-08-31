@@ -1,0 +1,17 @@
+.abajo{ 
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 34px;
+   align-items: center;
+    height: 25%;
+    display: flex;
+    color:#6a3a69;
+    background-color: #e3d4e3;
+    justify-content: space-between;
+}
+.abajo img{
+    width: 100px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}

@@ -1,0 +1,21 @@
+.estudiosacademicos{
+    text-align: center;
+    color: #6a3a69;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0px;
+    padding-top: 12px;
+}
+.estudiosacademicos nav{
+    margin-left: 80px;
+    text-align: center;
+}
+.estudiosacademicos li{
+    text-align: left;
+}
+.estudiosacademicos img {
+    margin-bottom: 0px;
+    padding-top: 0px;
+    width: 200px;
+    text-align: center;
+}
