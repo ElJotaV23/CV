@@ -7,6 +7,8 @@ import { HeaderComponent } from './header/header.component';
 import { IzquierdaComponent } from './izquierda/izquierda.component';
 import { DerechaComponent } from './derecha/derecha.component';
 import { FooterComponent } from './footer/footer.component';
+import { ExperienciaLaboralComponent } from './cv/experiencia-laboral/experiencia-laboral.component';
+import {HttpClientModule} from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -14,11 +16,13 @@ import { FooterComponent } from './footer/footer.component';
     HeaderComponent,
     IzquierdaComponent,
     DerechaComponent,
-    FooterComponent
+    FooterComponent,
+    ExperienciaLaboralComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

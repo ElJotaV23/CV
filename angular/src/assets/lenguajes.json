@@ -1,0 +1,25 @@
+{
+    "lenguajes":
+        [
+            {
+                "tipo":"HTML",
+                "porcentaje":"75%"
+            },
+            {
+                "tipo":"CSS",
+                "porcentaje":"50%"
+            },
+            {
+                "tipo":"JAVASCRIPT",
+                "porcentaje":"50%"
+            },
+            {  "tipo":"PYTHON",
+                "porcentaje":"50%"
+            },
+            {  "tipo":"SQL",
+                "porcentaje":"100%"
+            }
+
+        
+        ]
+}

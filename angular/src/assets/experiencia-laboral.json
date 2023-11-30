@@ -1,0 +1,34 @@
+{
+    "experienciaLaboral": [
+        {
+            "laburo": "tecnico de mantenimiento de Hardware",
+            "tarea": "encargado del montaje del pc",
+            "tarea2": "soporte tecnico",
+            "tarea3": "reparacion de hardware"
+        },
+        {
+            "laburo": "tecnico de sofware",
+            "tarea": "Analisis de informacion para modificar sistemas",
+            "tarea2": "configuracion de sistemas",
+            "tarea3": "mantenimiento de sistemas"
+        },
+        {
+            "laburo": "Editor de videos",
+            "tarea": "ediciones con el programa Filmora",
+            "tarea2":"editor de videos Intigon",
+            "tarea3":"editor de videos CristiNach"
+        },
+        {
+            "laburo": "Marketing digital",
+            "tarea": "implementar y gestionar campañas publicitarias que motiven la compra de los productos y servicios de una empresa",
+            "tarea2": "Conducir a los visitantes del sitio web y recopilar datos de clientes potenciales.",
+            "tarea3":"Administracion en Abrojo Digital"
+        },
+        {
+            "laburo": "Programador basico de pag web",
+            "tarea": "diseñador de sitios web y desarrollador de sus funciones, mediante lenguajes de programación",
+            "tarea2":"diseñador de la pagina web Abrojo Digital",
+            "tarea3":"diseñador de web de la pagina del hospital codigo azul"
+        }
+    ]
+}
